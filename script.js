@@ -31,7 +31,7 @@ let arr = [
     let newEmployees = [
       { id: 4, name: 'Aman', age: 18, profession: 'Developer' },
       { id: 5, name: 'Sujata', age: 20, profession: 'Data Analyst'},
-      { id: 6, name: 'Vibham', age: 22, profession: 'Data Engeneer' },
+      { id: 6, name: 'Vibham', age: 22, profession: 'Data Engeneer'},
     ];
   
     let concatenatedArray = arr.concat(newEmployees);
